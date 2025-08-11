@@ -1,0 +1,1 @@
+savedcmd_/home/lc/work/s32g/s32g399a/pfeng/sw/elf/Module.symvers :=  scripts/mod/modpost -M    -w    -o /home/lc/work/s32g/s32g399a/pfeng/sw/elf/Module.symvers -T /home/lc/work/s32g/s32g399a/pfeng/sw/elf/modules.order -i Module.symvers -e 

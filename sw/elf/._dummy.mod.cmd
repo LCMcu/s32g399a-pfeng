@@ -1,0 +1,1 @@
+savedcmd_/home/lc/work/s32g/s32g399a/pfeng/sw/elf/_dummy.mod := printf '%s\n'   lib.a ../common/src/dummy_main.o | awk '!x[$$0]++ { print("/home/lc/work/s32g/s32g399a/pfeng/sw/elf/"$$0) }' > /home/lc/work/s32g/s32g399a/pfeng/sw/elf/_dummy.mod

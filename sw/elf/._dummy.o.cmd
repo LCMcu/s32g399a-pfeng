@@ -1,0 +1,1 @@
+savedcmd_/home/lc/work/s32g/s32g399a/pfeng/sw/elf/_dummy.o := /home/lc/work/tools/arm-gnu-toolchain-11.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ld  -EL  -maarch64elf -z noexecstack     -r -o /home/lc/work/s32g/s32g399a/pfeng/sw/elf/_dummy.o @/home/lc/work/s32g/s32g399a/pfeng/sw/elf/_dummy.mod 
